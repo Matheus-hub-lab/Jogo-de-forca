@@ -23,4 +23,5 @@ O jogo funciona totalmente no navegador, sem necessidade de bibliotecas externas
 - **CSS3** – Estilização e layout  
 - **JavaScript** – Lógica do jogo 
 
+![Captura de tela 2026-02-08 173042](https://github.com/user-attachments/assets/4b8cc491-a611-482c-93a9-38c056f231c1)
 
