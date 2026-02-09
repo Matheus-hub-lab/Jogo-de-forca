@@ -25,14 +25,6 @@ O jogo funciona totalmente no navegador, sem necessidade de bibliotecas externas
 
 ---
 
-## 📷 Preview do Projeto
-
-![Preview do Jogo da Forca](./preview.png)
-
-> 💡 *Substitua o nome da imagem pelo arquivo correto ou ajuste o caminho conforme sua estrutura de pastas.*
-
----
-
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
