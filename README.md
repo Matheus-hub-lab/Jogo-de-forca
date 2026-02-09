@@ -21,12 +21,6 @@ O jogo funciona totalmente no navegador, sem necessidade de bibliotecas externas
 
 - **HTML5** – Estrutura da aplicação  
 - **CSS3** – Estilização e layout  
-- **JavaScript (Vanilla)** – Lógica do jogo e manipulação do DOM  
+- **JavaScript** – Lógica do jogo 
 
----
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
