@@ -1,6 +1,6 @@
 # 🎮 Jogo da Forca – HTML, CSS e JavaScript
 
-Este é um **Jogo da Forca** desenvolvido utilizando **HTML, CSS e JavaScript**, com o objetivo de praticar lógica de programação, manipulação do DOM e criação de interfaces interativas para a web.
+Este é um **Jogo da Forca** desenvolvido utilizando **HTML, CSS e JavaScript**, com o objetivo de praticar lógica de programação e criação de interfaces interativas para a web.
 
 O jogo funciona totalmente no navegador, sem necessidade de bibliotecas externas.
 
